@@ -1,0 +1,1 @@
+C:\Users\Fady\AndroidStudioProjects\my_portfolio_using_flutter-master\build\app\intermediates\cxx\Debug\2642j5z2\obj\x86_64

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "551553267654",
+    "project_id": "portfolio-df845",
+    "storage_bucket": "portfolio-df845.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551553267654:android:8fea3b119c4152791da4c7",
+        "android_client_info": {
+          "package_name": "com.example.my_protfolio_using_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ83GYzB3aLFJOkI9MAiMp5MY6g-LV9EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
